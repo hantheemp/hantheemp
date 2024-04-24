@@ -10,7 +10,7 @@ Hi there! I'm Murat Kağan, a passionate software engineer based in Istanbul, T�
 - **University:** Bahcesehir University, Istanbul, Besiktas
   - **Degree:** Software Engineering (Expected Graduation: 06/2025)
   - **GPA:** Current GPA: 3.65 / 4.00 (High Honour Student)
-- **Languages:** 🇹🇷 Turkish (Mother Tongue), 🇬🇧 English (C1 Level)
+- **Languages:** Turkish (Mother Tongue), English (C1 Level)
 
 ## 💻 Skills & Expertise
 
@@ -39,8 +39,8 @@ Hi there! I'm Murat Kağan, a passionate software engineer based in Istanbul, T�
 - [hayaltepe.com](https://hayaltepe.com): E-Commerce Website
 - [muratkagan.com](https://muratkagan.com): Personal Website
 - [eestetik.com](https://eestetik.com) (In Progress): Medical Aesthetic Product Website
-- [Konstantinopol](https://example.com): My Poetry Book
+- [Konstantinopol](https://www.dr.com.tr/Kitap/Konstantinopol/Edebiyat/Siir/Turk-Siiri/urunno=0001935385001): My Poetry Book
 
 ## 📧 Contact Me
 
-Feel free to reach out to me via [email](mailto:example@email.com) for collaborations or inquiries.
+Feel free to reach out to me via [email](mailto:temelmuratkagan@gmail.com) for collaborations or inquiries.
