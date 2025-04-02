@@ -9,7 +9,7 @@ Hi there! I'm Murat Kağan, a passionate software engineer based in Istanbul, T�
 - **Occupation:** Software Engineer
 - **University:** Bahcesehir University, Istanbul, Besiktas
   - **Degree:** Software Engineering (Expected Graduation: 06/2025)
-  - **GPA:** Current GPA: 3.65 / 4.00 (High Honour Student)
+  - **GPA:** Current GPA: 3.69 / 4.00 (High Honour Student)
 - **Languages:** Turkish (Mother Tongue), English (C1 Level)
 
 ## 💻 Skills & Expertise
