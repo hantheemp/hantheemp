@@ -58,10 +58,15 @@ I focus on building **scalable microservices**, **full-stack platforms**, and **
 ---
 
 ## 📜 Certifications
-- **BTK Akademi** – Java Programming, PL/SQL, Oracle SQL  
-- **Meta** – Frontend & Backend Development, JavaScript  
-- **Google** – Foundations of Project Management  
-- **Ludi** – Yemeksepeti Job Simulation  
+- **BTK Akademi**, Introduction to Java Programming - **Jun 2025**
+- **BTK Akademi**, PL/SQL, Oracle Database Programming - Jun 2025
+- **BTK Akademi**, From Zero to Advanced Oracle SQL - Feb 2025
+- **Ludi**, Yemeksepeti Job Simulation - **Sep 2024**
+- **Meta**, Programming with JavaScript - **Dec 2023**
+- **Meta**, Introduction to Backend Development - **Dec 2023**
+- **Google**, Foundations of Project Management - **Nov 2023**
+- **Meta**, Introduction to Frontend Development - **Nov 2023**
+
 
 ---
 
