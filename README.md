@@ -164,7 +164,6 @@ Experienced **Full Stack Developer** with 2+ years of professional experience bu
 I'm always interested in discussing **full-stack development opportunities**, **enterprise software solutions**, and **innovative technology projects**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratkagan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.ucbesbanada.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temelmuratkagan@gmail.com)
 
 📍 **Location:** Istanbul, Türkiye (Open to remote work)
