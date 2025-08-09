@@ -168,8 +168,4 @@ I'm always interested in discussing **full-stack development opportunities**, **
 
 📍 **Location:** Istanbul, Türkiye (Open to remote work)
 
----
-
-*"Building scalable, performant applications that solve real business problems and deliver measurable results."*
-
 </div>
