@@ -75,7 +75,8 @@ Experienced **Full Stack Developer** with 2+ years of professional experience bu
 `Jul 2024 – Nov 2024`
 > **Healthcare E-commerce & Analytics Platform**
 
-- Built a custom dashboard (www.ucbesbanada.com)  to streamline operations in the aesthetic health sector, including referral tracking and secure transactions.
+- Built a custom dashboard (www.ucbesbanada.com)  to streamline operations in the aesthetic health sector,
+including referral tracking and secure transactions.
 - **20% increase in sales conversion** through optimized user experience
 - Built scalable **Next.js frontend** + **Node.js backend** architecture
 - Comprehensive testing implementation with **Selenium, Jest, and Postman**
