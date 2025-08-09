@@ -4,7 +4,6 @@
 ### Full Stack Developer | Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratkagan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hantheemp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temelmuratkagan@gmail.com)
 
 **📍 Istanbul, Türkiye** | **🎓 BSc Software Engineering (High Honors, GPA 3.70)** | **💼 Currently at i2i Systems**
