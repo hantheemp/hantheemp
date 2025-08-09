@@ -66,8 +66,8 @@ Experienced **Full Stack Developer** with 2+ years of professional experience bu
 `Feb 2025 – Present`
 > **Enterprise 5G Applications for Türk Telekom**
 
-- Developing **5G-enabled enterprise applications** (BSCS & BillingNet) for Turkey's largest telecom provider
-- Architected **50+ PL/SQL stored procedures** with **30% performance improvement**
+- Developing **5G-enabled enterprise applications** (BSCS & BillingNet) for Turkey's largest telecom provider Türk Telekom
+- Wrote/Optimized **50+ PL/SQL stored procedures** with **30% performance improvement**
 - Building distributed systems within complex **microservice architectures**
 - Integrating **.NET-based services** for enterprise-scale performance
 
@@ -75,9 +75,9 @@ Experienced **Full Stack Developer** with 2+ years of professional experience bu
 `Jul 2024 – Nov 2024`
 > **Healthcare E-commerce & Analytics Platform**
 
-- Delivered complete **e-commerce platform** and **custom dashboard** for aesthetic health sector
+- Built a custom dashboard (www.ucbesbanada.com)  to streamline operations in the aesthetic health sector, including referral tracking and secure transactions.
 - **20% increase in sales conversion** through optimized user experience
-- Built scalable **TypeScript frontend** + **Node.js backend** architecture
+- Built scalable **Next.js frontend** + **Node.js backend** architecture
 - Comprehensive testing implementation with **Selenium, Jest, and Postman**
 
 ### ⚙️ **Software Engineering Intern** — *Gyro Agency* 
@@ -96,7 +96,7 @@ Experienced **Full Stack Developer** with 2+ years of professional experience bu
 - Co-developed **hayaltepe.com.tr** supporting **10,000 concurrent users**
 - Full-stack development: **React.js frontend** + **Node.js/MySQL backend**
 - Implemented secure payment processing and user authentication
-- Automated testing suite ensuring production reliability
+- Automated testing suite with **Selenium, Jest, and Postman** to ensure production reliability
 
 ### ✈️ **Software Engineer** — *Turkish Technology* 
 `May 2023 – Nov 2023`
