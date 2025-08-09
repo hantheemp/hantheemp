@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratkagan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temelmuratkagan@gmail.com)
 
-**📍 Istanbul, Türkiye** | **🎓 BSc Software Engineering (High Honors, GPA 3.70)** | **💼 Currently at i2i Systems**
+**📍 Istanbul, Türkiye** | **🎓 BSc Software Engineering at Bahcesehir University (High Honors, GPA 3.70)** | **💼 Currently at i2i Systems**
 
 </div>
 
